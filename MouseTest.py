@@ -10,3 +10,4 @@ screen_centerX, screen_centerY = screen_width/2, screen_height/2
 pag.moveTo(screen_centerX, screen_centerY)
 
 print(screen_centerX, screen_centerY)
+#test
