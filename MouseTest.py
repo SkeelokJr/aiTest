@@ -2,6 +2,7 @@
 # download GitHub Remote Repositories and GitHub push and pull extensions, 
 # f1 to type "open remote repository" -> aiTest and open remote repository
 # go to source control and save file to push to remote repository
+# to run use "run in interactive terminal"
 
 import pyautogui as pag
 import pygame as pg
